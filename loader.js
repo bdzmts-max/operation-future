@@ -1,1 +1,0 @@
-setTimeout(()=>{loader.style.display='none';terminal.classList.remove('hidden');},2600);
