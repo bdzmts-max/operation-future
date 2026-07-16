@@ -1,0 +1,1 @@
+Umieść tutaj hero.jpg i zdjęcia galerii.
